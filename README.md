@@ -1,9 +1,10 @@
 # Bem vindo ao meu perfil do GitHub 👋
 
-Sou um estudante entusiasta de tecnologia! Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniRitter e participando da trilha de Python do programa Geração Caldeira 2024. Tenho formação técnica em Informática para Internet. Moro no Rio Grande do Sul e estou focado em me aprofundar em Python e JavaScript, além de estar buscando minha primeira experiência profissional na área de tecnologia. Vamos nos conectar e colaborar em projetos incríveis!
+Sou um estudante entusiasta de tecnologia! Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniRitter e participando da trilha de Python do programa Geração Caldeira 2024 do Instituto Caldeira. Tenho formação técnica em Informática para Internet. Moro no Rio Grande do Sul e estou focado em me aprofundar em Python e JavaScript, além de estar buscando minha primeira experiência profissional na área de tecnologia. Vamos nos conectar e colaborar em projetos incríveis!
 
 ## Ferramentas e Tecnologias 💻: 
 
+<div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -13,6 +14,7 @@ Sou um estudante entusiasta de tecnologia! Atualmente, estou cursando Análise e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</div>
 
 ## Contatos 📫:
 
@@ -25,8 +27,8 @@ Sou um estudante entusiasta de tecnologia! Atualmente, estou cursando Análise e
 ## GitHub Stats ⚡:
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/WesleyFernandes0101">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyFernandes0101&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyFernandes0101&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
