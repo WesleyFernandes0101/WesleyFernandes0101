@@ -31,5 +31,3 @@ Sou um estudante entusiasta de tecnologia! Atualmente, estou cursando Análise e
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyFernandes0101&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyFernandes0101&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/WesleyFernandes0101/WesleyFernandes0101/blob/output/github-contribution-grid-snake.svg)
