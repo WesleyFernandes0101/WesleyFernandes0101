@@ -15,7 +15,7 @@ Sou um estudante entusiasta de tecnologia! Atualmente, estou cursando Análise e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="40" height="40"/>
+<img src="https://icongr.am/devicon/mysql-plain.svg?size=128&color=currentColor" width="40" height="40"/>
 </div>
 
 ## Contatos 📫:
