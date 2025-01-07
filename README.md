@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil do GitHub 👋
 
-Sou um estudante entusiasta de tecnologia! Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniRitter e estudando como aluno da trilha de Python do programa Geração Caldeira 2024 do Instituto Caldeira. Tenho formação técnica em Informática para Internet. Moro no Rio Grande do Sul e estou focado em me aperfeiçoar na área de dados, ia e machine learning, além de estar buscando minha primeira experiência profissional na área de tecnologia. Vamos nos conectar e colaborar em projetos incríveis!
+Sou um estudante entusiasta de tecnologia! Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniRitter e formado como aluno da trilha de Python do programa Geração Caldeira 2024 do Instituto Caldeira. Tenho formação técnica em Informática para Internet. Moro no Rio Grande do Sul e estou focado em me aperfeiçoar na área de dados, ia e machine learning, além de estar buscando minha primeira experiência profissional na área de tecnologia. Vamos nos conectar e colaborar em projetos incríveis!
 
 ## Ferramentas e Tecnologias 💻: 
 
