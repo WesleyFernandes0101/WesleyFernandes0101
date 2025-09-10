@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil do GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
 
-Acredito que boas ideias nascem da curiosidade e evoluem com colaboração! Atualmente sou estagiário e atuo como Analista de dados na empresa Sicredi, e estou cursando Análise e Desenvolvimento de Sistemas na UniRitter e formado como aluno da trilha de Análise de dados com Python do programa Geração Caldeira 2024 do Instituto Caldeira. Tenho formação técnica em Informática para Internet. Moro no Rio Grande do Sul e estou focado em me aperfeiçoar na área de dados, ia e machine learning. Vamos nos conectar e colaborar em projetos incríveis!
+Acredito que boas ideias nascem da curiosidade e evoluem com colaboração! Atualmente estou buscando uma vaga na área de dados, e estou cursando Análise e Desenvolvimento de Sistemas na UniRitter e formado como aluno da trilha de Análise de dados com Python do programa Geração Caldeira 2024 do Instituto Caldeira. Tenho formação técnica em Informática para Internet. Moro no Rio Grande do Sul e estou focado em me aperfeiçoar na área de dados, ia e machine learning. Vamos nos conectar e colaborar em projetos incríveis!
 
 ## Ferramentas e Tecnologias 💻: 
 
