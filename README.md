@@ -31,57 +31,57 @@ Acredito que boas ideias nascem da curiosidade e crescem com colaboração. Trab
 <tr>
 <td align="center"><b>Linguagens</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" title="Python" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" title="C++" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" title="Java" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" title="JavaScript" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" title="Python" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" title="C++" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" title="Java" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" title="JavaScript" alt="JavaScript"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Dados e ML</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" title="Pandas" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" title="NumPy" alt="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="42" title="PySpark" alt="PySpark"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" title="scikit-learn" alt="scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" title="Jupyter" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="30" alt="Databricks"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" title="Pandas" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" title="NumPy" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="42" height="42" title="PySpark" alt="PySpark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" title="scikit-learn" alt="scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" height="42" title="Jupyter" alt="Jupyter"/>
+<img src="assets/icons/databricks.svg" width="42" height="42" title="Databricks" alt="Databricks"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Bancos de dados</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" title="SQL Server" alt="SQL Server"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" title="MySQL" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="42" title="Oracle" alt="Oracle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" title="SQL Server" alt="SQL Server"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" title="MySQL" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="42" height="42" title="Oracle" alt="Oracle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" title="MongoDB" alt="MongoDB"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>BI e apps</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="42" title="Streamlit" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30" alt="Excel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="42" height="42" title="Streamlit" alt="Streamlit"/>
+<img src="assets/icons/powerbi.svg" width="42" height="42" title="Power BI" alt="Power BI"/>
+<img src="assets/icons/excel.svg" width="42" height="42" title="Excel" alt="Excel"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Automação e DevOps</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42" title="GitHub Actions" alt="GitHub Actions"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" title="Docker" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" title="Git" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" title="GitHub" alt="GitHub"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="30" alt="n8n"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42" height="42" title="GitHub Actions" alt="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" title="Docker" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" title="Git" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" title="GitHub" alt="GitHub"/>
+<img src="assets/icons/n8n.svg" width="42" height="42" title="n8n" alt="n8n"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Web e ferramentas</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" title="HTML5" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" title="CSS3" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" title="Figma" alt="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" title="VS Code" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" title="HTML5" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" title="CSS3" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" height="42" title="Figma" alt="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" title="VS Code" alt="VS Code"/>
 </td>
 </tr>
 </table>
@@ -89,22 +89,11 @@ Acredito que boas ideias nascem da curiosidade e crescem com colaboração. Trab
 ## 📈 Estatísticas
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WesleyFernandes0101&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyFernandes0101&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas"/>
-<br><br>
-<img src="https://streak-stats.demolab.com?user=WesleyFernandes0101&theme=dracula&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
-<br><br>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=WesleyFernandes0101&theme=dracula&hide_border=true&area=true" alt="Gráfico de atividade"/>
-</div>
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/github-snake-dark.svg" alt="Cobra comendo o gráfico de contribuições"/>
-</picture>
+<img src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/3-stats.svg" width="49%" alt="Estatísticas"/>
+<img src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" alt="Repositórios por linguagem"/>
+<br>
+<img src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" alt="Linguagens com mais commits"/>
+<img src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/4-productive-time.svg" width="49%" alt="Horários mais produtivos"/>
 </div>
 
 ## 📫 Vamos conversar

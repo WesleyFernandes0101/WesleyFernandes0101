@@ -1,0 +1,29 @@
+# Gera os cards de estatísticas do perfil (todos no mesmo tamanho)
+# e publica na branch "output", que o README usa.
+
+name: Atualizar cards de estatísticas
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # atualiza a cada 12 horas
+  workflow_dispatch:          # permite rodar manualmente pela aba Actions
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/stats-cards.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: output
+          UTC_OFFSET: -3
