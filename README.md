@@ -27,64 +27,7 @@ Acredito que boas ideias nascem da curiosidade e crescem com colaboração. Trab
 
 ## 🛠️ Stack
 
-<table align="center">
-<tr>
-<td align="center"><b>Linguagens</b></td>
-<td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" title="Python" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" title="C++" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" title="Java" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" title="JavaScript" alt="JavaScript"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Dados e ML</b></td>
-<td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" title="Pandas" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" title="NumPy" alt="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="42" height="42" title="PySpark" alt="PySpark"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" title="scikit-learn" alt="scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" height="42" title="Jupyter" alt="Jupyter"/>
-<img src="assets/icons/databricks.svg" width="42" height="42" title="Databricks" alt="Databricks"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Bancos de dados</b></td>
-<td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" title="SQL Server" alt="SQL Server"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" title="MySQL" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="42" height="42" title="Oracle" alt="Oracle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" title="MongoDB" alt="MongoDB"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>BI e apps</b></td>
-<td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="42" height="42" title="Streamlit" alt="Streamlit"/>
-<img src="assets/icons/powerbi.svg" width="42" height="42" title="Power BI" alt="Power BI"/>
-<img src="assets/icons/excel.svg" width="42" height="42" title="Excel" alt="Excel"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Automação e DevOps</b></td>
-<td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42" height="42" title="GitHub Actions" alt="GitHub Actions"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" title="Docker" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" title="Git" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" title="GitHub" alt="GitHub"/>
-<img src="assets/icons/n8n.svg" width="42" height="42" title="n8n" alt="n8n"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Web e ferramentas</b></td>
-<td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" title="HTML5" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" title="CSS3" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" height="42" title="Figma" alt="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" title="VS Code" alt="VS Code"/>
-</td>
-</tr>
-</table>
+<img width="100%" src="assets/stack.svg" alt="Stack: Python, C++, Java, JavaScript, Pandas, NumPy, PySpark, scikit-learn, Jupyter, Databricks, SQL Server, MySQL, Oracle, MongoDB, Streamlit, Power BI, Excel, GitHub Actions, Docker, Git, GitHub, n8n, HTML5, CSS3, Figma e VS Code"/>
 
 ## 📈 Estatísticas
 
