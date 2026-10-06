@@ -32,11 +32,11 @@ Acredito que boas ideias nascem da curiosidade e crescem com colaboração. Trab
 ## 📈 Estatísticas
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/3-stats.svg" width="49%" alt="Estatísticas"/>
-<img src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" alt="Repositórios por linguagem"/>
+<a href="https://github.com/WesleyFernandes0101"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=WesleyFernandes0101&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=495" alt="Estatísticas do GitHub"/></a>
+<a href="https://github.com/WesleyFernandes0101"><img width="49%" src="https://streak-stats.demolab.com/?user=WesleyFernandes0101&theme=dracula&hide_border=true&locale=pt_BR&card_width=495&card_height=195" alt="Sequência de contribuições"/></a>
 <br>
-<img src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" alt="Linguagens com mais commits"/>
-<img src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/4-productive-time.svg" width="49%" alt="Horários mais produtivos"/>
+<a href="https://github.com/WesleyFernandes0101?tab=repositories"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyFernandes0101&layout=donut&langs_count=5&theme=dracula&hide_border=true&card_width=340" alt="Linguagens mais usadas"/></a>
+<a href="https://github.com/WesleyFernandes0101"><img width="49%" src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/4-productive-time.svg" alt="Horários com mais commits"/></a>
 </div>
 
 ## 📫 Vamos conversar
