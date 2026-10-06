@@ -11,6 +11,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/stats-cards.yml
+      - .github/scripts/resize_card.py
 
 permissions:
   contents: write
@@ -30,3 +31,17 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: output
           UTC_OFFSET: -3
+
+      - name: Ajustar tamanho do card de horários
+        run: |
+          git fetch origin main --depth 1
+          git show origin/main:.github/scripts/resize_card.py > /tmp/resize_card.py
+          git pull origin output
+          python3 /tmp/resize_card.py \
+            profile-summary-card-output/dracula/4-productive-time.svg \
+            profile-summary-card-output/dracula/4-productive-time-wide.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/dracula/4-productive-time-wide.svg
+          git diff --cached --quiet || git commit -m "Atualiza card de horários"
+          git push origin HEAD:output
