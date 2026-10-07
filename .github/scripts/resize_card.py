@@ -6,6 +6,14 @@ src, dst = sys.argv[1], sys.argv[2]
 W, H = 350, 215
 svg = open(src, encoding="utf-8").read()
 
+# traduz os textos do card para português
+TRADUCOES = {
+    r"Commits \(UTC [^)]*\)": "Commits por horário",
+    r"per day hour": "hora do dia",
+}
+for de, para in TRADUCOES.items():
+    svg = re.sub(de, para, svg)
+
 # tamanho original do card
 w = float(re.search(r'<svg[^>]*\bwidth="([\d.]+)', svg).group(1))
 h = float(re.search(r'<svg[^>]*\bheight="([\d.]+)', svg).group(1))
