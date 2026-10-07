@@ -1,20 +1,20 @@
-"""Envolve o card de horários (340x200) em uma moldura 350x215,
-para ficar do mesmo tamanho do card de linguagens ao lado."""
+"""Wraps the commits-by-hour card (340x200) in a 350x215 frame
+so it matches the size of the languages card next to it."""
 import re, sys
 
 src, dst = sys.argv[1], sys.argv[2]
 W, H = 350, 215
 svg = open(src, encoding="utf-8").read()
 
-# traduz os textos do card para português
-TRADUCOES = {
-    r"Commits \(UTC [^)]*\)": "Commits por horário",
-    r"per day hour": "hora do dia",
+# rename card texts
+RENAMES = {
+    r"Commits \(UTC [^)]*\)": "Commits by Hour",
+    r"per day hour": "hour of day",
 }
-for de, para in TRADUCOES.items():
-    svg = re.sub(de, para, svg)
+for old, new in RENAMES.items():
+    svg = re.sub(old, new, svg)
 
-# tamanho original do card
+# original card size
 w = float(re.search(r'<svg[^>]*\bwidth="([\d.]+)', svg).group(1))
 h = float(re.search(r'<svg[^>]*\bheight="([\d.]+)', svg).group(1))
 scale = min(W / w, H / h)
