@@ -36,7 +36,7 @@ I believe good ideas are born from curiosity and grow through collaboration. I w
 <a href="https://github.com/WesleyFernandes0101"><img width="49%" src="https://streak-stats.demolab.com/?user=WesleyFernandes0101&theme=dracula&hide_border=true&card_width=495&card_height=195" alt="Contribution streak"/></a>
 <br>
 <a href="https://github.com/WesleyFernandes0101?tab=repositories"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyFernandes0101&layout=donut&langs_count=5&theme=dracula&hide_border=true" alt="Most used languages"/></a>
-<a href="https://github.com/WesleyFernandes0101"><img width="49%" src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/4-productive-time-wide.svg?v=4" alt="Commits by hour"/></a>
+<a href="https://github.com/WesleyFernandes0101"><img width="49%" src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/4-productive-time-wide.svg?v=5" alt="Commits by hour"/></a>
 </div>
 
 ## 📫 Let's connect
