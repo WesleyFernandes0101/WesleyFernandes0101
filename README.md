@@ -36,7 +36,7 @@ Acredito que boas ideias nascem da curiosidade e crescem com colaboração. Trab
 <a href="https://github.com/WesleyFernandes0101"><img width="49%" src="https://streak-stats.demolab.com/?user=WesleyFernandes0101&theme=dracula&hide_border=true&locale=pt_BR&card_width=495&card_height=195" alt="Sequência de contribuições"/></a>
 <br>
 <a href="https://github.com/WesleyFernandes0101?tab=repositories"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyFernandes0101&layout=donut&langs_count=5&theme=dracula&hide_border=true" alt="Linguagens mais usadas"/></a>
-<a href="https://github.com/WesleyFernandes0101"><img width="49%" src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/4-productive-time-wide.svg" alt="Horários com mais commits"/></a>
+<a href="https://github.com/WesleyFernandes0101"><img width="49%" src="https://raw.githubusercontent.com/WesleyFernandes0101/WesleyFernandes0101/output/profile-summary-card-output/dracula/4-productive-time-wide.svg?v=2" alt="Horários com mais commits"/></a>
 </div>
 
 ## 📫 Vamos conversar
